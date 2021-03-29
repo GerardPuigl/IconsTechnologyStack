@@ -50,10 +50,9 @@
 ### MongoDB<br><br>
 
 
-<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/eclipse-long.svg" alt="eclipse-long" align="right" height="45px"></img>
-<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/eclipse.svg" alt="eclipse" align="right" height="45px"></img>
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/postman.svg" alt="postman" align="right" height="45px"></img>
 
-### Eclipse<br><br>
+### Postman<br><br>
 
 
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/eclipse-long.svg" alt="eclipse-long" align="right" height="45px"></img>
