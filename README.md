@@ -1,6 +1,24 @@
 # Technology Stack Icons
 
-<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/java.svg" alt="java" align="right" height="50px"></img>
+<br><br>
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/java.svg" alt="java" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/spring-long.svg" alt="spring-long" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/spring.svg" alt="spring" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/javascript.svg" alt="javascript" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/jquery.svg" alt="jquery" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/html-5.svg" alt="html-5" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/css-3.svg" alt="css-3" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/bootstrap.svg" alt="bootstrap" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/datatables.png" alt="mysql" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/mysql.svg" alt="mysql" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/mongodb.svg" alt="mysql" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/postman.svg" alt="postman" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/eclipse-long.svg" alt="eclipse-long" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/eclipse.svg" alt="eclipse" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/visual-studio-code.svg" alt="visual-studio-code" align="right" height="45px">
+<br><br><br><br><br><br>
+
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/java.svg" alt="java" align="right" height="45px"></img>
 
 ### Java<br><br>
 
@@ -20,12 +38,12 @@
 
 ### Jquery<br><br>
 
-<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/html-5.svg" alt="html-5" align="right" height="50px"></img>
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/html-5.svg" alt="html-5" align="right" height="45px"></img>
 
 ### HTML 5<br><br>
 
 
-<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/css-3.svg" alt="css-3" align="right" height="50px"></img>
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/css-3.svg" alt="css-3" align="right" height="45px"></img>
 
 ### CSS 3<br><br>
 
@@ -66,6 +84,7 @@
 ### Visual Studio Code<br><br>
 
 
-### Useful links
+## Useful links
+
 * <a href="https://github.com/tchapi/markdown-cheatsheet"> Syntax</a>
 * <a href="https://gist.github.com/rxaviers/7360908"> Emojis</a>
