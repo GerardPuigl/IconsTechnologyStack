@@ -16,6 +16,7 @@
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/spring.svg" alt="spring" align="right" height="45px">
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/spring-long.svg" alt="spring-long" align="right" height="45px">
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/java.svg" alt="java" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/thymeleaf.png" alt="java" align="right" height="45px">
 <br><br><br><br><br><br>
 
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/java.svg" alt="java" align="right" height="45px"></img>
