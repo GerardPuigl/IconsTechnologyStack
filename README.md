@@ -17,6 +17,8 @@
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/spring-long.svg" alt="spring-long" align="right" height="45px">
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/java.svg" alt="java" align="right" height="45px">
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/thymeleaf.png" alt="java" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/auth0.svg" alt="java" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/auth0-long.svg" alt="java" align="right" height="45px">
 <br><br><br><br><br><br>
 
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/java.svg" alt="java" align="right" height="45px"></img>
@@ -84,6 +86,10 @@
 
 ### Visual Studio Code<br><br>
 
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/auth0.svg" alt="java" align="right" height="45px">
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/auth0-long.svg" alt="java" align="right" height="45px">
+
+### Visual Studio Code<br><br>
 
 ## Useful links
 
