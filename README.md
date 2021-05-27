@@ -91,7 +91,7 @@
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/auth0.svg" alt="java" align="right" height="45px">
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/auth0-long.svg" alt="java" align="right" height="45px">
 
-### Visual Studio Code<br><br>
+### Auth0<br><br>
 
 ## Useful links
 
