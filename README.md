@@ -5,6 +5,7 @@
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/visual-studio-code.svg" alt="visual-studio-code" title="visual-studio-code" height="45px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/eclipse.svg" alt="eclipse" title="eclipse" height="45px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/eclipse-long.svg" alt="eclipse-long" title="eclipse" height="45px"/>
+  <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/intellij-idea.svg" alt="intellij-idea" title="intellij-idea" height="45px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/postman.svg" alt="postman" title="postman" height="45px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/mongodb.svg" alt="mongodb" title="mongodb" height="45px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/mysql.svg" alt="mysql" title="mysql" height="45px"/>
@@ -20,6 +21,7 @@
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/thymeleaf.png" alt="thymeleaf" title="thymeleaf" height="45px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/auth0.svg" alt="auth0" title="auth0" height="45px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/auth0-long.svg" alt="auth0" title="auth0" height="45px"/>
+  
 </p>
 <br><br><br><br><br><br>
 
@@ -86,7 +88,14 @@
 
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/visual-studio-code.svg" alt="visual-studio-code" align="right" height="45px"></img>
 
+
 ### Visual Studio Code<br><br>
+
+
+<img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/intellij-idea.svg" alt="intellij-idea" align="right" height="45px"/></img>
+
+### Intellij-Idea<br><br>
+
 
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/auth0.svg" alt="java" align="right" height="45px">
 <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/auth0-long.svg" alt="java" align="right" height="45px">
