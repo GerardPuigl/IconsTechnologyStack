@@ -10,7 +10,7 @@
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/mongodb.svg" alt="mongodb" title="mongodb" height="45px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/mysql.svg" alt="mysql" title="mysql" height="45px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/keycloak.svg" alt="keycloak" title="keycloak" height="45px"/>
-  <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/apache_kafka.svg" alt="apache_kafka" title="apache_kafka" height="45px"/>
+  <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/Apache_kafka.svg" alt="apache_kafka" title="apache_kafka" height="45px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/grafana.svg" alt="grafana" title="grafana" height="45px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/datatables.png" alt="datatables" title="datatables" height="45px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/bootstrap.svg" alt="bootstrap" title="bootstrap" height="45px"/>
